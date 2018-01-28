@@ -1,6 +1,6 @@
 {
-    'name' : 'ccedesigndoc.ps1',
+    'name'    : 'cceDesignDoc',
     'release' : 'd5a1c799-b160-47a1-bfcf-2dbe5562dd84',
-    'dev' : 'd5a1c799-b160-47a1-bfcf-2dbe5562dd84',
-    'notes' : 'https://shanehoey.github.com/worddoc/ccedesigndoc/'
+    'dev'     : 'dd03ca2e-6806-49e9-8f71-be6ba2407b8e',
+    'link'    : 'https://shanehoey.github.com/worddoc/ccedesigndoc/'
 }
