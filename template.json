@@ -1,8 +1,8 @@
-
 {
-
+[
     'name'    : 'templateDoc',
     'release' : '523129c9-3f83-4efc-839f-973c2c205a28',
     'dev'     : '523129c9-3f83-4efc-839f-973c2c205a28',
     'link'    : 'https://shanehoey.github.com/worddoc/templateDoc/'
+]
 }
