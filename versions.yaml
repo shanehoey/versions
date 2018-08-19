@@ -1,0 +1,13 @@
+versions:
+    -  name:      'cceDesignDoc',
+       release:   'dd03ca2e-6806-49e9-8f71-be6ba2407b8e',
+       dev:       'd5a1c799-b160-47a1-bfcf-2dbe5562dd84',
+       link:      'https://shanehoey.github.com/worddoc/ccedesigndoc/'
+    -  name:      'mediantDoc',
+       release:   'daf55f23-1547-4923-9953-a50f5c8d7316',
+       dev:       'daf55f23-1547-4923-9953-a50f5c8d7316',
+       link:      'https://shanehoey.github.com/worddoc/mediantdoc/'
+    -  name:      'templateDoc',
+       release:   '5ed7e004-5fdc-48e7-8319-d9a5c99c0ced',
+       dev:       '5ed7e004-5fdc-48e7-8319-d9a5c99c0ced',
+       link:      'https://shanehoey.github.com/worddoc/templateDoc/'
